@@ -5,7 +5,7 @@
   "bin": "install.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/slashinfty/create-tser-app.git"
+    "url": "git+https://github.com/slashinfty/not-create-react-electron-app.git"
   },
   "keywords": [
     "create",
@@ -16,7 +16,7 @@
   "author": "Matt Braddock",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/slashinfty/create-tser-app/issues"
+    "url": "https://github.com/slashinfty/not-create-react-electron-app/issues"
   },
-  "homepage": "https://github.com/slashinfty/create-tser-app#readme"
+  "homepage": "https://github.com/slashinfty/not-create-react-electron-app#readme"
 }

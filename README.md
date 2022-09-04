@@ -16,7 +16,6 @@ npx not-create-react-electron-app <name>
 │  ├─ electron-builder.json
 │  ├─ electron-webpack.js
 │  ├─ react-webpack.js
-│  ├─ tsconfig.json
 ├─ src/
 │  ├─ electron.preload.ts
 │  ├─ electron.ts
@@ -24,6 +23,7 @@ npx not-create-react-electron-app <name>
 │  ├─ react.tsx
 ├─ .gitignore
 ├─ package.json
+├─ tsconfig.json
 ```
 
 ## Scripts
