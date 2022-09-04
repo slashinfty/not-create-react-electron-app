@@ -1,0 +1,22 @@
+{
+  "name": "not-create-react-electron-app",
+  "version": "1.0.0",
+  "description": "Script to create an Electron app with TypeScript and React ",
+  "bin": "install.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slashinfty/create-tser-app.git"
+  },
+  "keywords": [
+    "create",
+    "react",
+    "electron",
+    "typescript"
+  ],
+  "author": "Matt Braddock",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/slashinfty/create-tser-app/issues"
+  },
+  "homepage": "https://github.com/slashinfty/create-tser-app#readme"
+}

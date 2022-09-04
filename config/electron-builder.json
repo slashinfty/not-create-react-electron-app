@@ -1,0 +1,29 @@
+{
+    "appId": "com.electron.undefined",
+    "productName": "undefined",
+    "copyright": "undefined",
+    "files": [
+        "node_modules/**/*",
+        "build/**/*"
+    ],
+    "directories": {
+        "output": "dist"
+    },
+    "win": {
+        "target": "nsis",
+        "icon": "undefined"
+    },
+    "linux": {
+        "target": [
+            "deb",
+            "AppImage"
+        ],
+        "icon": "undefined",
+        "category": "undefined"
+    },
+    "mac": {
+        "target": "dmg",
+        "icon": "undefined",
+        "category": "undefined"
+    }
+}
